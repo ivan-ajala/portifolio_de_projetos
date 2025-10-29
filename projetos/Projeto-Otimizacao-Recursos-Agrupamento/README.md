@@ -28,21 +28,34 @@ Automatizar e otimizar o processo de alocação de colaboradores em projetos, se
 
 ## Estrutura do Projeto
 
-Projeto-Otimização-Recursos-Agrupamento/
+Com certeza! Para garantir que a estrutura seja copiada e colada perfeitamente no seu `README.md` (ou qualquer outro arquivo Markdown), vou encapsulá-la em um bloco de código Markdown.
+
+Aqui está a estrutura de pastas em Markdown que você pode usar:
+
+```markdown
+Projeto-Otimizacao-Recursos-Agrupamento/
 │
 ├── data/
-│ └── WA_Fn-UseC_-HR-Employee-Attrition.csv
+│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv # Dados brutos
+│
+├── notebooks/
+│   └── 01_EDA_e_Modelagem_Inicial.ipynb      # Notebooks de Análise Exploratória e Modelagem
 │
 ├── src/
-│ └── employee_clustering_analysis.py
+│   └── 01_modelagem_clustering.py             # Script principal para Modelagem e Geração de Outputs
+│   └── dashboard_clusters.py                  # Código da aplicação do Dashboard Interativo (Plotly Dash)
 │
 ├── outputs/
-│ ├── alocacao_colaboradores_clusters.csv
-│ ├── elbow_method.png
-│ └── cluster_analysis.png
+│   ├── alocacao_colaboradores_clusters.csv    # Resultados: DataFrame com a alocação final de Cluster ID
+│   ├── elbow_method.png                     # Visualização: Validação do número de Clusters (Método do Cotovelo)
+│   ├── cluster_analysis.png                 # Visualização: Gráfico de comparação dos perfis de Cluster
+│   └── dashboards/
+│       └── dashboard_clusters.pdf             # Exportação estática do Dashboard em PDF
 │
-├── README.md
-└── requirements.txt
+├── .gitignore                               # Arquivo para ignorar caches, ambientes virtuais e arquivos temporários
+├── README.md                                # Documentação detalhada do projeto, metodologia e conclusões
+└── requirements.txt                         # Lista de dependências Python para o projeto
+```
 
 
 ## Metodologia
