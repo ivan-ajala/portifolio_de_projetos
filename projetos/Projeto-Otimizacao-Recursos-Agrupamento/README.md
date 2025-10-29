@@ -139,6 +139,5 @@ python src/employee_clustering_analysis.py
 
 ---
 
-*Desenvolvido por* **Ivan Ajala**
-*Projeto demonstrando aplicação de Data Science para otimização de gestão de recursos*
+*Desenvolvido por*: **Ivan Ajala** - *Projeto demonstrando aplicação de Data Science para otimização de gestão de recursos*
 
