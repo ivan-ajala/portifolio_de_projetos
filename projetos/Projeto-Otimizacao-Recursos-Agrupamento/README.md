@@ -19,7 +19,8 @@ Automatizar e otimizar o processo de alocação de colaboradores em projetos, se
 
 ## Dataset Utilizado
 **Nome**: IBM HR Analytics Employee Attrition & Performance
-**Link**: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+**[Download Link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)**:
 
 **Por que este dataset?**
 - Contém métricas reais de desempenho de funcionários
