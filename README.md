@@ -10,7 +10,7 @@ Esta coleção demonstra minha capacidade de aplicar técnicas de Análise de Da
 
 | # | Título do Projeto | Habilidades Técnicas | Foco de Negócio | Link para Análise Completa |
 | :-: | :--- | :--- | :--- | :--- |
-| **01** | **Otimização de Recursos e Segmentação de Colaboradores (Clustering)** | Python, K-Means Clustering, Testes Estatísticos (ANOVA), Dashboards (Plotly Dash) | Estratégia de RH, Retenção de Talentos, Redução de *Turnover*, Gestão de Performance. | [Ver Projeto Completo](./Projeto-Otimizacao-Recursos-Agrupamento) |
+| **01** | **Otimização de Recursos e Segmentação de Colaboradores (Clustering)** | Python, K-Means Clustering, Testes Estatísticos (ANOVA), Dashboards (Plotly Dash) | Estratégia de RH, Retenção de Talentos, Redução de *Turnover*, Gestão de Performance. | [Ver Projeto Completo](./projetos/Projeto-Otimizacao-Recursos-Agrupamento) |
 | **02** | *[Em Desenvolvimento...]* | | | |
 | **03** | *[Em Desenvolvimento...]* | | | |
 
