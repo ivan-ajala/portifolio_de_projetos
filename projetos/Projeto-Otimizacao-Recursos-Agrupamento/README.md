@@ -28,10 +28,6 @@ Automatizar e otimizar o processo de alocação de colaboradores em projetos, se
 
 ## Estrutura do Projeto
 
-Com certeza! Para garantir que a estrutura seja copiada e colada perfeitamente no seu `README.md` (ou qualquer outro arquivo Markdown), vou encapsulá-la em um bloco de código Markdown.
-
-Aqui está a estrutura de pastas em Markdown que você pode usar:
-
 ```markdown
 Projeto-Otimizacao-Recursos-Agrupamento/
 │
