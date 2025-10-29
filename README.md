@@ -62,4 +62,4 @@ Para executar a aplicação Dashboard interativa do primeiro projeto (Segmentaç
 4.  Acesse `http://127.0.0.1:8050/` no seu navegador.
 
 ---
-*Desenvolvido por: [Seu Nome/GitHub User]*
+*Desenvolvido por: Ivan Ajala*
